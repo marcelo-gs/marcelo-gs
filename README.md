@@ -9,7 +9,9 @@ Marcelo Gomes is...
 Systems analyst, developer and technology enthusiast, working for over ten years with systems development and analysis, creation and maintenance of software (Desktop and Web). Improvements and optimization of pre-existing codes, identification of bottlenecks in the application, creation of new features and improvement of existing ones. Currently participating in the evolution of a system that coded from scratch in COBOL / DB2 technologies for processing and business logic and ASP.NET as a presentation layer - Large system that handles disputes between acquirer and credit card networks (chargeback)
 
 ## Education
- - MBA, Technology for Business: AI, Data Science and Big Data | Pontifícia Universidade Católica do Rio Grande do Sul
+ - MBA, Technology for Business: AI, Data Science and Big Data | Pontifícia Universidade Católica do Rio Grande do Sul (2020)
+ - Bachelor of Science in Computer Science | Universidade Nove de Julho  (2010)
+ - Associate degree, Specific Formation in Information Systems Management | Universidade Nove de Julho (2009)
 
 
 ## Curriculum
