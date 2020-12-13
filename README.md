@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 My focus nowadays is learning [Python](https://www.python.org/) because it's a language that makes me happy ⚡
-But... [.NET](https://dotnet.microsoft.com/) is a language that is in my daily life.
+But [.NET](https://dotnet.microsoft.com/) is a language that is in my daily life.
 
 
 ## Find me on web
