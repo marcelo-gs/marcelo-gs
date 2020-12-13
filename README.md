@@ -13,7 +13,8 @@ Systems analyst, developer and technology enthusiast, working for over ten years
 
 
 ## Curriculum
-<br>[EN](https://github.com/marcelo-gs/marcelo-gs/blob/main/marcelo-gomes_English.pdf) [PT](https://github.com/marcelo-gs/marcelo-gs/blob/main/marcelo-gomes.pdf)
+ - [EN](https://github.com/marcelo-gs/marcelo-gs/blob/main/marcelo-gomes_English.pdf) English Version
+ - [PT](https://github.com/marcelo-gs/marcelo-gs/blob/main/marcelo-gomes.pdf) Portuguese Version
 
 <!--
 **marcelo-gs/marcelo-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
