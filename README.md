@@ -33,6 +33,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🌱 I’m currently learning ...
+My focus nowadays is learning [Python](https://www.python.org/) because it's a language that makes me happy ⚡
+But... [.NET](https://dotnet.microsoft.com/) is a language that is in my daily life.
+
+
 ## Find me on web
 [![Twitter: m4rc3l0g0m3s](https://img.shields.io/twitter/follow/m4rc3l0g0m3s?style=social)](https://twitter.com/m4rc3l0g0m3s)
 [![Linkedin: Marcelo Gomes](https://img.shields.io/badge/-marcelogomesdasilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelogomesdasilva/)](https://www.linkedin.com/in/marcelogomesdasilva/)
